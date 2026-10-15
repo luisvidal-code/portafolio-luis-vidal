@@ -1,0 +1,21 @@
+# === Sistema operativo ===
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# === Editores / IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === Temporales y backups ===
+*.bak
+*.tmp
+*.log
+
+# === Andamiaje de desarrollo (no va al repo público) ===
+_debug/
+styles_fixed.css

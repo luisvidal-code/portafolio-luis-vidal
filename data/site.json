@@ -1,0 +1,47 @@
+{
+  "_comment": "Contenido editable del portfolio. Cambia SOLO el texto entre comillas dobles. No borres llaves { }, corchetes [ ] ni comas. Mantén el orden de las secciones. Guarda el archivo en UTF-8.",
+
+  "hero": {
+    "name": "LUIS VIDAL",
+    "subtitle": "Productor de TV",
+    "subtitle2": "Marketing Digital & Periodismo & Tecnología",
+    "ctaText": "Ver Proyectos",
+    "photo": "",
+    "photoAlt": "Luis Vidal"
+  },
+
+  "about": {
+    "title": "Trayectoria en Medios y Transformación Digital",
+    "paragraphs": [
+      "Con más de una década en la industria de los medios, he liderado proyectos de transformación digital que han impactado a millones de espectadores.",
+      "Mi experiencia abarca desde la producción de contenidos para televisión hasta la creación de estrategias de marketing digital innovadoras, pasando por el periodismo informativo y la integración de tecnologías emergentes."
+    ],
+    "timeline": [
+      { "year": "2014-2017",     "role": "Analista de Producción", "company": "Televisa" },
+      { "year": "2017-2020",     "role": "Productor Ejecutivo",    "company": "Netflix Latam" },
+      { "year": "2020-Presente", "role": "Fundador",               "company": "Estudio Digital 360" }
+    ]
+  },
+
+  "gallery": [
+    { "title": "Serie Documental — \"Raíces Digitales\"", "description": "Documental interactivo que exploró la intersección entre cultura y tecnología", "image": "", "alt": "" },
+    { "title": "Campaña — \"Televisión sin Barreras\"",    "description": "Campaña de marketing para accesibilidad en plataformas de streaming",         "image": "", "alt": "" },
+    { "title": "Podcast — \"Frecuencia Latina\"",          "description": "Podcast de periodismo investigativo con más de 10 millones de descargas",      "image": "", "alt": "" },
+    { "title": "App — \"Cine en Casa\"",                   "description": "Aplicación de realidad aumentada para experiencias de cine en streaming",      "image": "", "alt": "" },
+    { "title": "Evento — \"TechFest Peru\"",               "description": "Evento de tecnología y medios con más de 5000 asistentes",                     "image": "", "alt": "" },
+    { "title": "Series — \"Latam Now\"",                   "description": "Serie de TV digital con contenido generado por usuarios en vivo",              "image": "", "alt": "" }
+  ],
+
+  "social": [
+    { "platform": "linkedin",  "label": "LinkedIn",  "url": "#" },
+    { "platform": "twitter",   "label": "Twitter",   "url": "#" },
+    { "platform": "instagram", "label": "Instagram", "url": "#" },
+    { "platform": "youtube",   "label": "YouTube",   "url": "#" }
+  ],
+
+  "contact": {
+    "title": "Conectemos",
+    "subtitle": "¿Listo para transformar tu próximo proyecto?",
+    "buttonText": "Enviar Mensaje"
+  }
+}
